@@ -72,7 +72,7 @@ exports.getToken = function (request, callback) {
 }
 
 /**
- * Gest a request user.
+ * Gets a request user.
  *
  * @param {Object} token The token object.
  */
